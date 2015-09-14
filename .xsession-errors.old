@@ -1,0 +1,54 @@
+Xlib:  extension "GLX" missing on display ":0".
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkButton:use-stock is deprecated and shouldn't be used anymore. It will be removed in a future version.
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkSettings:gtk-button-images is deprecated and shouldn't be used anymore. It will be removed in a future version.
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkMisc:yalign is deprecated and shouldn't be used anymore. It will be removed in a future version.
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkImage:stock is deprecated and shouldn't be used anymore. It will be removed in a future version.
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkSettings:gtk-menu-images is deprecated and shouldn't be used anymore. It will be removed in a future version.
+W: awesome: a_glib_poll:239: Last main loop iteration took 0.208075 seconds! Increasing limit for this warning to that value.
+urxvt: perl extension 'clipboard' not found in perl library search path
+urxvt: perl extension 'keyboard-select' not found in perl library search path
+urxvt: perl extension 'tabbedex' not found in perl library search path
+urxvt: perl extension 'url-select' not found in perl library search path
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+W: awesome: a_glib_poll:239: Last main loop iteration took 0.371048 seconds! Increasing limit for this warning to that value.
+W: awesome: a_glib_poll:239: Last main loop iteration took 0.508308 seconds! Increasing limit for this warning to that value.
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+Xlib:  extension "GLX" missing on display ":0".
+W: awesome: a_glib_poll:239: Last main loop iteration took 1.336227 seconds! Increasing limit for this warning to that value.
+urxvt: perl extension 'clipboard' not found in perl library search path
+urxvt: perl extension 'keyboard-select' not found in perl library search path
+urxvt: perl extension 'tabbedex' not found in perl library search path
+urxvt: perl extension 'url-select' not found in perl library search path
+W: awesome: a_glib_poll:239: Last main loop iteration took 1.861539 seconds! Increasing limit for this warning to that value.
+naughty: Couldn't load image 'nm-no-connection': /usr/share/awesome/lib/gears/surface.lua:39: Failed to open file 'nm-no-connection': No such file or directory
+nm-applet-Message: No keyring secrets found for TARA/802-11-wireless-security; asking user.
+
+(nm-applet:2932): GLib-GObject-WARNING **: The property GtkButton:xalign is deprecated and shouldn't be used anymore. It will be removed in a future version.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(nm-applet:2932): GLib-CRITICAL **: g_hash_table_iter_next: assertion 'ri->version == ri->hash_table->version' failed
+nm-applet-Message: No keyring secrets found for nilgiri@iiith/802-11-wireless-security; asking user.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+naughty: Couldn't load image 'nm-device-wireless': /usr/share/awesome/lib/gears/surface.lua:39: Failed to open file 'nm-device-wireless': No such file or directory
+urxvt: perl extension 'clipboard' not found in perl library search path
+urxvt: perl extension 'keyboard-select' not found in perl library search path
+urxvt: perl extension 'tabbedex' not found in perl library search path
+urxvt: perl extension 'url-select' not found in perl library search path
+naughty: Couldn't load image 'nm-no-connection': /usr/share/awesome/lib/gears/surface.lua:39: Failed to open file 'nm-no-connection': No such file or directory
+urxvt: perl extension 'clipboard' not found in perl library search path
+urxvt: perl extension 'keyboard-select' not found in perl library search path
+urxvt: perl extension 'tabbedex' not found in perl library search path
+urxvt: perl extension 'url-select' not found in perl library search path
+naughty: Couldn't load image 'nm-device-wired': /usr/share/awesome/lib/gears/surface.lua:39: Failed to open file 'nm-device-wired': No such file or directory
+
+(process:2929): GLib-WARNING **: poll(2) failed due to: Resource temporarily unavailable.
